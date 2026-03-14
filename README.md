@@ -1,4 +1,66 @@
-# 浩然理论·创作者总定义
+# 【统一前置声明 + 阅读要求】
+
+本理论所讲的**维度（Dimension）**，不是空间几何上的长、宽、高，而是指事物的状态、层次、演化、等级、能量，以及一切存在差异的属性。它与弦论等数学空间维度不属于同一层面，互不冲突、互不否定。
+阅读本论文前，建议具备哲学、物理学、社会学、信息科学等跨学科基础。
+
+## English (英语)
+The term **Dimension** used in this theory does not refer to length, width, height in spatial geometry. Instead, it denotes the state, hierarchy, evolution, level, energy, and all properties with differences of things. It belongs to a different category from mathematical spatial dimensions in string theory, with no conflict or mutual negation between them.
+Before reading this paper, it is recommended to have an interdisciplinary foundation in philosophy, physics, sociology, information science, etc.
+
+## 日本語 (日语)
+本理論における**次元（Dimension）**は、空間幾何学における縦・横・高さを意味するのではなく、事物の状態、階層、進化、レベル、エネルギー、および差異を持つあらゆる属性を指す。弦理論などの数学的な空間次元とは異なる次元であり、互いに衝突も否定もしない。
+本論文を読む前に、哲学、物理学、社会学、情報科学などの学際的な基礎知識を持っていることを推奨する。
+
+## Français (法语)
+Le terme **Dimension** utilisé dans cette théorie ne désigne pas la longueur, la largeur, la hauteur en géométrie spatiale. Il renvoie à l’état, la hiérarchie, l’évolution, le niveau, l’énergie et toutes les propriétés présentant des différences des choses. Il appartient à un niveau différent des dimensions spatiales mathématiques de la théorie des cordes, sans conflit ni négation mutuelle.
+Avant de lire ce papier, il est recommandé de disposer d’une base interdisciplinaire en philosophie, physique, sociologie, sciences de l’information, etc.
+
+## Deutsch (德语)
+Der Begriff **Dimension** in dieser Theorie bezieht sich nicht auf Länge, Breite, Höhe in der räumlichen Geometrie. Er steht für den Zustand, die Hierarchie, die Entwicklung, das Niveau, die Energie sowie alle Eigenschaften mit Unterschieden der Dinge. Er gehört zu einer anderen Ebene als die mathematischen Raumdimensionen in der Stringtheorie und steht mit ihnen weder in Widerspruch noch gegenseitiger Negation.
+Vor dem Lesen dieses Papers wird empfohlen, eine interdisziplinäre Grundlage in Philosophie, Physik, Soziologie, Informatik usw. zu haben.
+
+## Русский (俄语)
+Термин **Измерение (Dimension)** в этой теории не обозначает длину, ширину, высоту в пространственной геометрии. Он означает состояние, иерархию, эволюцию, уровень, энергию и все свойства с различиями вещей. Он относится к другому уровню, чем математические пространственные измерения в теории струн, не конфликтуя и не отрицая друг друга.
+Перед чтением данной работы рекомендуется иметь междисциплинарную базу в философии, физике, социологии, информатике и т.д.
+
+## Tiếng Việt (越南语)
+Khái niệm **Không gian (Dimension)** trong lý thuyết này không chỉ chiều dài, chiều rộng, chiều cao trong hình học không gian. Mà nó chỉ trạng thái, tầng bậc, sự tiến hóa, cấp bậc, năng lượng và tất cả các thuộc tính có sự khác biệt của sự vật. Nó thuộc một tầng lớp khác với không gian toán học trong lý thuyết dây, không xung đột và không phủ định lẫn nhau.
+Trước khi đọc bài báo này, khuyến nghị có nền tảng đa ngành như triết học, vật lý, xã hội học, khoa học thông tin, v.v.
+
+## Svenska (瑞典语)
+Termen **Dimension** i denna teori avser inte längd, bredd, höjd i rumsgeometri. Den betecknar tillstånd, hierarki, evolution, nivå, energi och alla egenskaper med skillnader hos saker. Den tillhör en annan nivå än matematiska rumsdimensioner i strängteorin utan konflikt eller ömsesidig negation.
+Innan du läser denna artikel rekommenderas det att ha en tvärvetenskaplig grund inom filosofi, fysik, sociologi, informationsvetenskap med mera.
+
+## Español (西班牙语)
+El término **Dimensión** usado en esta teoría no se refiere a longitud, anchura, altura en geometría espacial. Designa el estado, jerarquía, evolución, nivel, energía y todas las propiedades con diferencias de las cosas. Pertenece a un nivel distinto de las dimensiones espaciales matemáticas de la teoría de cuerdas, sin conflicto ni negación mutua.
+Antes de leer este artículo, se recomienda tener una base interdisciplinaria en filosofía, física, sociología, ciencias de la información, etc.
+
+## العربية (阿拉伯语)
+المصطلح **البعد (Dimension)** المستخدم في هذه النظرية لا يشير إلى الطول والعرض والارتفاع في الهندسة المكانية. بل هو يشير إلى الحالة، والتسلسل الهرمي، والتطور، والمستوى، والطاقة وجميع الخصائص التي تختلف في الأشياء. إنه ينتمي إلى مستوى مختلف عن الأبعاد المكانية الرياضية في نظرية الأوتار، بدون تعارض أو نفي متبادل.
+قبل قراءة هذه الورقة، يُنصح بامتلاك أساس متعدد التخصصات في الفلسفة، والفيزياء، والعلم الاجتماعي، وعلوم المعلومات، إلخ.
+
+## Italiano (意大利语)
+Il termine **Dimensione** usato in questa teoria non si riferisce a lunghezza, larghezza, altezza nella geometria spaziale. Indica lo stato, la gerarchia, l’evoluzione, il livello, l’energia e tutte le proprietà con differenze delle cose. Appartiene a un piano diverso dalle dimensioni spaziali matematiche della teoria delle stringhe, senza conflitto o negazione reciproca.
+Prima di leggere questo articolo, si consiglia di avere una base interdisciplinare in filosofia, fisica, sociologia, scienze dell’informazione, ecc.
+
+## ภาษาไทย (泰语)
+คำว่า **มิติ (Dimension)** ในทฤษฎีนี้ ไม่ได้หมายถึง ความยาว ความกว้าง ความสูง ในเรขาคณิตเชิงพื้นที่ แต่หมายถึง สภาพ ระดับ ระดับชั้น วิวัฒนาการ พลังงาน และคุณสมบัติที่มีความแตกต่างทั้งหมดของสิ่งต่างๆ มันอยู่ในระดับที่แตกต่างจากมิติเชิงพื้นที่ทางคณิตศาสตร์ในทฤษฎีสตริง ไม่มีความขัดแย้งและไม่ได้ปฏิเสธซึ่งกันและกัน
+ก่อนอ่านบทความนี้ แนะนำให้มีพื้นฐานสาขามากกว่าเดียว เช่น ปรัชญา ฟิสิกส์ สังคมศาสตร์ วิทยาการสารสนเทศ ฯลฯ
+
+## 한국어 (韩语)
+본 이론에서 사용하는 **차원(Dimension)**은 공간 기하학에서의 길이, 너비, 높이를 의미하지 않습니다. 사물의 상태, 계층, 진화, 등급, 에너지 및 차이가 존재하는 모든 속성을 의미합니다. 끈 이론 등의 수학적 공간 차원과는 다른 층위에 속하며, 서로 충돌하거나 부정하지 않습니다.
+본 논문을 읽기 전에 철학, 물리학, 사회학, 정보과학 등의 학제적 기초를 갖추는 것이 권장됩니다.
+
+---
+
+
+
+
+
+
+
+
+# 浩然理论·创作者总定义 （HMP） 
 **浩然理论（Haoran Theory）** 又名 **浩然元理（Haoran Meta-principle）**
 是一套用以解释宇宙、生命、文明、意识与智能演化的统一底层理论，以中文哲学中独有的“自然”为精神内核，以“自本自根、无限展开、自然而然”为根本法则。
 
