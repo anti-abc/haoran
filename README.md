@@ -526,6 +526,369 @@ Ziran é Haoran.
 ---
 
 
+#2026 29 Cosmic Predictions Based on the Low‑Dimensional Substrate Axiomatic Framework
+## 基于“低维基底”公理体系的29条宇宙预测（中英对照·初高中易懂版）
+
+English: Based on the simple rules of the “low‑dimensional substrate” (the basic invisible layer of the universe), we put forward 29 predictions about dark matter, black holes, quantum physics, light, temperature, and cosmic evolution. All come from three core ideas: high‑dimensional things rely on the low‑dimensional substrate; the substrate is stable and has its own rules; things keep changing between high dimension and low dimension.
+中文：基于“低维基底”（宇宙看不见的基础底层）的简单规则，我们提出29条关于暗物质、黑洞、量子、光、温度和宇宙演化的预测。所有预测都来自三个核心思想：高维事物依赖低维基底；基底稳定且有自身规律；万物在高维与低维之间不断转化。
+
+---
+
+## Prediction 01（预测01）
+English - Prediction: The low‑dimensional substrate is the most basic part of the universe. It never breaks down or disappears. All matter, energy, and space come from this substrate.
+中文 - 预测内容：低维基底是宇宙最基础的部分，永远不会衰变消失。所有物质、能量、空间都来自这个基底。
+
+English - Rationale: The substrate is the real “stage” of the universe. Matter and energy are just temporary forms on it.
+中文 - 为什么这么预测：基底是宇宙真正的“舞台”，物质和能量只是舞台上的临时表演。
+
+English - Experimental Verification: Look for weak signals between the substrate and tiny particles like neutrinos.
+中文 - 怎么验证：寻找基底和中微子等微小粒子之间的微弱信号。
+
+---
+
+## Prediction 02（预测02）
+English - Prediction: The speed of light is not perfectly fixed. It changes a little in places where the substrate is denser, such as near black holes.
+中文 - 预测内容：光速不是绝对不变的。在基底更密集的地方（比如黑洞附近），光速会有微小变化。
+
+English - Rationale: Light travels through the substrate, so the substrate’s density affects its speed.
+中文 - 为什么这么预测：光在基底里传播，所以基底密度会影响它的速度。
+
+English - Experimental Verification: Measure light speed near massive black holes with high‑precision telescopes.
+中文 - 怎么验证：用高精度望远镜测量大质量黑洞附近的光速。
+
+---
+
+## Prediction 03（预测03）
+English - Prediction: When light travels far enough in space, it loses energy and turns into dark matter. This is how most dark matter forms.
+中文 - 预测内容：光在宇宙中传播足够远后，能量耗尽并变成暗物质。这是暗物质最主要的来源。
+
+English - Rationale: Light is a high‑dimensional phenomenon. It gradually fades into the low‑dimensional substrate.
+中文 - 为什么这么预测：光是高维现象，会慢慢耗散进入低维基底。
+
+English - Experimental Verification: Use cosmic microwave background data to check the link between light and dark matter.
+中文 - 怎么验证：用宇宙微波背景数据检验光和暗物质的关联。
+
+---
+
+## Prediction 04（预测04）
+English - Prediction: Black holes are not bottomless pits. They are “doors” that let matter return to the low‑dimensional substrate.
+中文 - 预测内容：黑洞不是无底洞，而是让物质回到低维基底的“大门”。
+
+English - Rationale: The strong gravity of black holes breaks down matter and sends it back to the substrate.
+中文 - 为什么这么预测：黑洞的强引力拆解物质，把它送回基底。
+
+English - Experimental Verification: Observe gravitational waves from merging black holes for special signals.
+中文 - 怎么验证：观测黑洞合并的引力波，寻找特殊信号。
+
+---
+
+## Prediction 05（预测05）
+English - Prediction: Dark matter and dark energy change in opposite ways. When dark matter decreases, dark energy increases.
+中文 - 预测内容：暗物质和暗能量此消彼长。暗物质变少，暗能量就变多。
+
+English - Rationale: Dark matter is local condensation; dark energy is global dissipation of the same substrate.
+中文 - 为什么这么预测：暗物质是基底的局部凝聚，暗能量是基底的整体耗散。
+
+English - Experimental Verification: Use survey data to check their opposite changing trends.
+中文 - 怎么验证：用巡天数据验证它们相反的变化趋势。
+
+---
+
+## Prediction 06（预测06）
+English - Prediction: Unusual patterns in the cosmic microwave background may be traces of other universes.
+中文 - 预测内容：宇宙微波背景里的异常图案，可能是其他宇宙留下的痕迹。
+
+English - Rationale: The Big Bang is not unique. Many universes exist like bubbles on the substrate.
+中文 - 为什么这么预测：大爆炸不是唯一的，很多宇宙像气泡一样生在基底上。
+
+English - Experimental Verification: Look for non‑standard rings or fluctuations in CMB data.
+中文 - 怎么验证：在微波背景数据里寻找不标准的环状或波动痕迹。
+
+---
+
+## Prediction 07（预测07）
+English - Prediction: Time can reverse locally in special quantum systems or near black holes.
+中文 - 预测内容：在特殊量子系统或黑洞附近，时间可以局部倒流。
+
+English - Rationale: Time’s direction is global dissipation. Local condensation can reverse it.
+中文 - 为什么这么预测：时间方向是整体耗散，局部凝聚可以让它反转。
+
+English - Experimental Verification: Do quantum optics experiments to observe tiny time‑reversal behaviors.
+中文 - 怎么验证：用量子光学实验观测微小的时间反转现象。
+
+---
+
+## Prediction 08（预测08）
+English - Prediction: The universe will never end in heat death or big rip. It cycles forever.
+中文 - 预测内容：宇宙不会热寂或大撕裂，它永远循环。
+
+English - Rationale: The substrate exists forever. Dissipation and condensation keep repeating.
+中文 - 为什么这么预测：基底永远存在，耗散和凝聚不断重复。
+
+English - Experimental Verification: Look for remains of the last universe cycle in CMB.
+中文 - 怎么验证：在微波背景里寻找上一轮宇宙的遗迹。
+
+---
+
+## Prediction 09（预测09）
+English - Prediction: Humans will never travel beyond the solar system. Physical limits set by the substrate cannot be broken.
+中文 - 预测内容：人类永远无法飞出太阳系。基底设定的物理极限无法突破。
+
+English - Rationale: Energy, materials, and life all have limits supported by the substrate.
+中文 - 为什么这么预测：能源、材料、生命都由基底支撑，都有上限。
+
+English - Experimental Verification: Watch future space technology hit unbreakable bottlenecks.
+中文 - 怎么验证：观察未来航天技术遇到无法突破的瓶颈。
+
+---
+
+## Prediction 10（预测10）
+English - Prediction: If aliens exist, they must be in the middle of a Milky Way spiral arm, similar to our solar system.
+中文 - 预测内容：如果外星人存在，一定在银河系悬臂中段，和太阳系类似的位置。
+
+English - Rationale: Life needs stable temperature, elements, and radiation—only that area fits.
+中文 - 为什么这么预测：生命需要稳定温度、元素和辐射，只有这个区域合适。
+
+English - Experimental Verification: Search for life signs on exoplanets in that zone.
+中文 - 怎么验证：在这个区域的系外行星上寻找生命信号。
+
+---
+
+## Prediction 11（预测11）
+English - Prediction: Interstellar signals disappear beyond tens of thousands of light‑years. They turn into dark matter.
+中文 - 预测内容：星际信号超过几万光年就会消失，变成暗物质。
+
+English - Rationale: Light fades and transforms after long travel, as in Prediction 03.
+中文 - 为什么这么预测：光长途传播后会衰减转化，见预测03。
+
+English - Experimental Verification: All alien signals we detect will be nearby in the Milky Way.
+中文 - 怎么验证：我们探测到的外星信号都将来自银河系内较近区域。
+
+---
+
+## Prediction 12（预测12）
+English - Prediction: The Hubble constant (cosmic expansion speed) changes over time because dark energy changes.
+中文 - 预测内容：哈勃常数（宇宙膨胀速度）会随时间变化，因为暗能量在变化。
+
+English - Rationale: Dark energy drives expansion. Its change changes the expansion rate.
+中文 - 为什么这么预测：暗能量驱动膨胀，它变化则膨胀速度变化。
+
+English - Experimental Verification: Measure Hubble constant at different cosmic ages.
+中文 - 怎么验证：测量宇宙不同时期的哈勃常数。
+
+---
+
+## Prediction 13（预测13）
+English - Prediction: Dark energy’s parameter w changes with time and crosses the phantom boundary (w = –1).
+中文 - 预测内容：暗能量的参数w会随时间变化，并穿过–1这条临界线。
+
+English - Rationale: The substrate has complex inner structures that change dissipation speed.
+中文 - 为什么这么预测：基底内部结构复杂，会改变耗散速度。
+
+English - Experimental Verification: Use dark energy surveys to confirm the crossing trend.
+中文 - 怎么验证：用暗能量巡天确认参数穿越–1的趋势。
+
+---
+
+## Prediction 14（预测14）
+English - Prediction: Cosmic structures grow slower than expected. Dark energy slows down their formation.
+中文 - 预测内容：宇宙结构生长比预期慢，暗能量拖慢了它们的形成。
+
+English - Rationale: Expanding universe pulls matter apart and weakens gravity clustering.
+中文 - 为什么这么预测：膨胀的宇宙拉开物质，减弱引力聚集。
+
+English - Experimental Verification: Measure structure growth at different cosmic times.
+中文 - 怎么验证：测量宇宙不同时期的结构生长速度。
+
+---
+
+## Prediction 15（预测15）
+English - Prediction: Information falling into black holes is never lost. It is stored in the low‑dimensional substrate.
+中文 - 预测内容：掉进黑洞的信息不会消失，它被保存在低维基底里。
+
+English - Rationale: Information is a high‑dimensional thing. It returns to the substrate with matter.
+中文 - 为什么这么预测：信息是高维事物，随物质一起回到基底。
+
+English - Experimental Verification: Prove information is conserved in black hole physics theories.
+中文 - 怎么验证：在黑洞物理理论中证明信息守恒。
+
+---
+
+## Prediction 16（预测16）
+English - Prediction: Different observers may see different realities, but the substrate’s true state is unique.
+中文 - 预测内容：不同观察者可能看到不同现实，但基底的真实状态唯一。
+
+English - Rationale: Observers connect to the substrate differently, so they see different results.
+中文 - 为什么这么预测：观察者和基底的连接程度不同，所以看到不同结果。
+
+English - Experimental Verification: Do quantum experiments with two kinds of observers.
+中文 - 怎么验证：用两种观察者做量子实验。
+
+---
+
+## Prediction 17（预测17）
+English - Prediction: Neutrinos have tiny mass because they weakly connect to the low‑dimensional substrate.
+中文 - 预测内容：中微子质量极小，因为它和低维基底的连接很弱。
+
+English - Rationale: Mass comes from coupling to the substrate. Weaker coupling means smaller mass.
+中文 - 为什么这么预测：质量来自和基底的耦合，耦合越弱质量越小。
+
+English - Experimental Verification: Precisely measure neutrino mass and its relation to dark matter.
+中文 - 怎么验证：精确测量中微子质量及其与暗物质的关系。
+
+---
+
+## Prediction 18（预测18）
+English - Prediction: Dark matter and neutrinos have weak non‑gravity interactions.
+中文 - 预测内容：暗物质和中微子之间存在微弱的非引力相互作用。
+
+English - Rationale: Both are close to the substrate and can interact at the substrate level.
+中文 - 为什么这么预测：两者都接近基底，可在基底层相互作用。
+
+English - Experimental Verification: Use higher‑precision data to confirm the interaction.
+中文 - 怎么验证：用更高精度数据确认这种相互作用。
+
+---
+
+## Prediction 19（预测19）
+English - Prediction: Early universe had a primordial magnetic field from the substrate, shaping later galaxies.
+中文 - 预测内容：早期宇宙有来自基底的原初磁场，塑造了后来的星系。
+
+English - Rationale: The substrate is not perfectly smooth; it leaves early magnetic imprints.
+中文 - 为什么这么预测：基底不完全均匀，会留下早期磁场印记。
+
+English - Experimental Verification: Look for primordial magnetic signals in CMB polarization.
+中文 - 怎么验证：在微波背景偏振中寻找原初磁场信号。
+
+---
+
+## Prediction 20（预测20）
+English - Prediction: JWST’s “little red dots” are black hole seeds directly formed from substrate fluctuations.
+中文 - 预测内容：韦伯望远镜看到的“小红点”，是由基底涨落直接形成的黑洞种子。
+
+English - Rationale: Early substrate fluctuations can make black holes without stars.
+中文 - 为什么这么预测：早期基底涨落可以直接形成黑洞，不需要恒星。
+
+English - Experimental Verification: Use spectra to confirm they are gas‑covered black holes.
+中文 - 怎么验证：用光谱确认它们是被气体包裹的黑洞。
+
+---
+
+## Prediction 21（预测21）
+English - Prediction: Some runaway black holes show both black hole and galaxy features—they are in transition.
+中文 - 预测内容：一些逃逸黑洞同时像黑洞和星系，它们处于过渡状态。
+
+English - Rationale: The border between high and low dimension is not sharp; mixed states exist.
+中文 - 为什么这么预测：高维低维边界不清晰，存在混合状态。
+
+English - Experimental Verification: Observe more boundary objects with mixed features.
+中文 - 怎么验证：观测更多有混合特征的边界天体。
+
+---
+
+## Prediction 22（预测22）
+English - Prediction: Neutron star mergers can happen in unexpected places because galaxy collisions disturb the substrate.
+中文 - 预测内容：中子星合并可能出现在奇怪位置，因为星系碰撞扰动了基底。
+
+English - Rationale: Disturbed substrate changes local conditions and allows rare events.
+中文 - 为什么这么预测：被扰动的基底改变局部条件，允许罕见事件发生。
+
+English - Experimental Verification: Find gamma‑ray bursts without clear host galaxies.
+中文 - 怎么验证：寻找没有明确宿主星系的伽马射线暴。
+
+---
+
+## Prediction 23（预测23）
+English - Prediction: Black holes make dark energy. Energy released when matter returns to the substrate is dark energy.
+中文 - 预测内容：黑洞制造暗能量。物质回归基底释放的能量就是暗能量。
+
+English - Rationale: Black holes are portals to the substrate; their activity fuels dark energy.
+中文 - 为什么这么预测：黑洞是通往基底的大门，它们的活动产生暗能量。
+
+English - Experimental Verification: Check whether black hole growth matches cosmic expansion.
+中文 - 怎么验证：检验黑洞增长是否和宇宙膨胀同步。
+
+---
+
+## Prediction 24（预测24）
+English - Prediction: Primordial magnetic fields, dark energy, Hubble tension, S8 tension, and black holes all come from the same changing substrate.
+中文 - 预测内容：原初磁场、暗能量、哈勃张力、S8冲突、黑洞都来自同一个演化的基底。
+
+English - Rationale: All are different signs of the same underlying substrate evolution.
+中文 - 为什么这么预测：它们都是同一个基底演化的不同表现。
+
+English - Experimental Verification: Check whether their data change in consistent patterns.
+中文 - 怎么验证：检验它们的数据是否按一致模式变化。
+
+---
+
+## Prediction 25（预测25·量子纠缠）
+English - Prediction: Quantum entanglement is not “spooky action at a distance.” Particles share a connection on the low‑dimensional substrate.
+中文 - 预测内容：量子纠缠不是“超距幽灵作用”，粒子在低维基底上共用同一个连接。
+
+English - Rationale: Distance only exists in high dimension. The substrate has no distance.
+中文 - 为什么这么预测：距离只存在于高维，基底里没有距离概念。
+
+English - Experimental Verification: Measure entanglement speed; it should be faster than light.
+中文 - 怎么验证：测量纠缠速度，它应该超光速。
+
+---
+
+## Prediction 26（预测26·量子隧穿）
+English - Prediction: Quantum tunneling works because particles briefly go back to the substrate, pass through, then reappear.
+中文 - 预测内容：量子隧穿是因为粒子短暂回到基底，穿过后再出现。
+
+English - Rationale: Barriers exist only in high dimension. The substrate has no barriers.
+中文 - 为什么这么预测：壁垒只存在于高维，基底里没有壁垒。
+
+English - Experimental Verification: Measure tunneling time; it should be near zero or faster than light.
+中文 - 怎么验证：测量隧穿时间，应接近零或超光速。
+
+---
+
+## Prediction 27（预测27·绝对零度以下）
+English - Prediction: If matter is cooled below absolute zero, it turns completely into the low‑dimensional substrate and vanishes.
+中文 - 预测内容：如果把物质冷却到绝对零度以下，它会完全变成低维基底并消失。
+
+English - Rationale: Temperature is high‑dimensional motion. Below zero, matter can’t stay high‑dimensional.
+中文 - 为什么这么预测：温度是高维运动，零度以下物质无法维持高维形态。
+
+English - Experimental Verification: Watch matter disappear without breaking or reacting at extremely low temperatures.
+中文 - 怎么验证：在极低温下观察物质不分裂、不反应却直接消失。
+
+---
+
+## Prediction 28（预测28·维度是温度与速度的桥梁）
+English - Prediction: Dimension connects the lowest temperature (absolute zero) and the highest speed (light speed).
+中文 - 预测内容：维度连接最低温度（绝对零度）和最高速度（光速）。
+
+English - Rationale: Colder = closer to substrate; faster = closer to substrate propagation.
+中文 - 为什么这么预测：越冷越接近基底；越快越接近在基底内传播。
+
+English - Experimental Verification: Prove that temperature, speed, and dimension change together.
+中文 - 怎么验证：证明温度、速度、维度会同步规律变化。
+
+---
+
+## Prediction 29（预测29·光最终会完全消失进入低维）
+English - Prediction: After traveling extremely far, light completely runs out of energy, vanishes, and enters the pure low‑dimensional substrate.
+中文 - 预测内容：光传播极远、能量完全耗尽后，会彻底消失并进入纯低维基底。
+
+English - Rationale: Light first becomes dark matter, then fully dissipates into the substrate.
+中文 - 为什么这么预测：光先变成暗物质，再完全耗散进基底。
+
+English - Experimental Verification: Look for light suddenly cutting off at extreme distances, not explainable by redshift.
+中文 - 怎么验证：寻找极远距离处光线突然截断、无法用红移解释的现象。
+
+---
+
+Conclusion（结论）
+English: These 29 predictions use clear, consistent logic from the low‑dimensional substrate idea. Future experiments and observations will keep testing them.
+中文：这29条预测用来自低维基底的清晰、自洽逻辑推导而来。未来的实验和观测将持续检验它们。
+
+
+
+
 
 
 
